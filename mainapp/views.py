@@ -12,7 +12,7 @@ class ProductsViewSet(ModelViewSet):
 
 class GetProductInfoView(APIView):
     def get(self, request):
-        # Получаем набор всех записей из таблицы Capital
+        # Получаем набор всех записей из таблицы
         queryset = Offers.objects.all()
         # Сериализуем извлечённый набор записей
         serializer_for_queryset = ProductSerializer(
