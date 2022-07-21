@@ -1,0 +1,4249 @@
+{
+  "yml_catalog": {
+    "shop": {
+      "categories": {
+        "category": [
+          {
+            "_id": "000000015",
+            "_parentId": "000000014",
+            "__text": "Балетки"
+          },
+          {
+            "_id": "000000017",
+            "_parentId": "000000014",
+            "__text": "Босоножки"
+          },
+          {
+            "_id": "000000019",
+            "_parentId": "000000014",
+            "__text": "Ботильоны"
+          },
+          {
+            "_id": "000000021",
+            "_parentId": "000000014",
+            "__text": "Ботинки"
+          },
+          {
+            "_id": "000000023",
+            "_parentId": "000000014",
+            "__text": "Ботфорты"
+          },
+          {
+            "_id": "000000025",
+            "_parentId": "000000014",
+            "__text": "Кеды"
+          },
+          {
+            "_id": "000000027",
+            "_parentId": "000000014",
+            "__text": "Кроссовки"
+          },
+          {
+            "_id": "000000029",
+            "_parentId": "000000014",
+            "__text": "Мокасины"
+          },
+          {
+            "_id": "000000031",
+            "_parentId": "000000014",
+            "__text": "Полуботинки"
+          },
+          {
+            "_id": "000000033",
+            "_parentId": "000000014",
+            "__text": "Полусапоги"
+          },
+          {
+            "_id": "000000035",
+            "_parentId": "000000014",
+            "__text": "Сабо"
+          },
+          {
+            "_id": "000000037",
+            "_parentId": "000000014",
+            "__text": "Сандалии"
+          },
+          {
+            "_id": "000000039",
+            "_parentId": "000000014",
+            "__text": "Сапоги"
+          },
+          {
+            "_id": "000000041",
+            "_parentId": "000000014",
+            "__text": "Слиперы"
+          },
+          {
+            "_id": "000000047",
+            "_parentId": "000000014",
+            "__text": "Туфли"
+          },
+          {
+            "_id": "000000051",
+            "_parentId": "000000014",
+            "__text": "Эспадрильи"
+          },
+          {
+            "_id": "000000058",
+            "_parentId": "000000053",
+            "__text": "Рюкзаки"
+          },
+          {
+            "_id": "000000060",
+            "_parentId": "000000053",
+            "__text": "Сумки"
+          },
+          {
+            "_id": "000000053",
+            "_parentId": "000000004",
+            "__text": "Сумки"
+          },
+          {
+            "_id": "000000014",
+            "_parentId": "000000004",
+            "__text": "Обувь"
+          },
+          {
+            "_id": "000000004",
+            "__text": "Женское"
+          },
+          {
+            "_id": "000000069",
+            "_parentId": "000000068",
+            "__text": "Ботинки"
+          },
+          {
+            "_id": "000000071",
+            "_parentId": "000000068",
+            "__text": "Кеды"
+          },
+          {
+            "_id": "000000073",
+            "_parentId": "000000068",
+            "__text": "Кроссовки"
+          },
+          {
+            "_id": "000000075",
+            "_parentId": "000000068",
+            "__text": "Мокасины"
+          },
+          {
+            "_id": "000000077",
+            "_parentId": "000000068",
+            "__text": "Полуботинки"
+          },
+          {
+            "_id": "000000079",
+            "_parentId": "000000068",
+            "__text": "Сабо"
+          },
+          {
+            "_id": "000000081",
+            "_parentId": "000000068",
+            "__text": "Сандалии"
+          },
+          {
+            "_id": "000000083",
+            "_parentId": "000000068",
+            "__text": "Сапоги"
+          },
+          {
+            "_id": "000000087",
+            "_parentId": "000000068",
+            "__text": "Эспадрильи"
+          },
+          {
+            "_id": "000000093",
+            "_parentId": "000000089",
+            "__text": "Лоферы"
+          },
+          {
+            "_id": "000000095",
+            "_parentId": "000000089",
+            "__text": "Оксфорды"
+          },
+          {
+            "_id": "000000097",
+            "_parentId": "000000089",
+            "__text": "Слиперы"
+          },
+          {
+            "_id": "000000101",
+            "_parentId": "000000089",
+            "__text": "Дерби"
+          },
+          {
+            "_id": "000000105",
+            "_parentId": "000000063",
+            "__text": "Сумки"
+          },
+          {
+            "_id": "000000103",
+            "_parentId": "000000063",
+            "__text": "Рюкзак"
+          },
+          {
+            "_id": "000000063",
+            "_parentId": "000000062",
+            "__text": "Сумки"
+          },
+          {
+            "_id": "000000068",
+            "_parentId": "000000062",
+            "__text": "Обувь"
+          },
+          {
+            "_id": "000000062",
+            "__text": "Мужское"
+          },
+          {
+            "_id": "000000089",
+            "_parentId": "000000068",
+            "__text": "Туфли"
+          }
+        ]
+      },
+      "offers": {
+        "offer": [
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT3_BORDO 35",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234792.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234792.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT3_BORDO",
+            "vendorCode": "5602021002107",
+            "description": "PRM11_36542ELT3_BORDO",
+            "barcode": "4610055234792",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT3_BORDO"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "35"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "35"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Бордовый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "БОРДОВЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234792",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT3_BORDO 36",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234808.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234808.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT3_BORDO",
+            "vendorCode": "5602021002107",
+            "description": "PRM11_36542ELT3_BORDO",
+            "barcode": "4610055234808",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT3_BORDO"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "36"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "36"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Бордовый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "БОРДОВЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234808",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT3_BORDO 37",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234815.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234815.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT3_BORDO",
+            "vendorCode": "5602021002107",
+            "description": "PRM11_36542ELT3_BORDO",
+            "barcode": "4610055234815",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT3_BORDO"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "37"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "37"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Бордовый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "БОРДОВЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234815",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT3_BORDO 38",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234822.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234822.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT3_BORDO",
+            "vendorCode": "5602021002107",
+            "description": "PRM11_36542ELT3_BORDO",
+            "barcode": "4610055234822",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT3_BORDO"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "38"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "38"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Бордовый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "БОРДОВЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234822",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT3_BORDO 39",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234839.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234839.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT3_BORDO",
+            "vendorCode": "5602021002107",
+            "description": "PRM11_36542ELT3_BORDO",
+            "barcode": "4610055234839",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT3_BORDO"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "39"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "39"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Бордовый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "БОРДОВЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234839",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT3_BORDO 40",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234846.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234846.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT3_BORDO",
+            "vendorCode": "5602021002107",
+            "description": "PRM11_36542ELT3_BORDO",
+            "barcode": "4610055234846",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT3_BORDO"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "40"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "40"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Бордовый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "БОРДОВЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234846",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT3_BORDO 41",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234853.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234853.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT3_BORDO",
+            "vendorCode": "5602021002107",
+            "description": "PRM11_36542ELT3_BORDO",
+            "barcode": "4610055234853",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT3_BORDO"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "41"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "41"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Бордовый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "БОРДОВЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234853",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT2_BLUE 35",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234723.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234723.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT2_BLUE",
+            "vendorCode": "5602021002121",
+            "description": "PRM11_36542ELT2_BLUE",
+            "barcode": "4610055234723",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT2_BLUE"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "35"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "35"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Синий"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СИНИЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234723",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT2_BLUE 36",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234730.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234730.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT2_BLUE",
+            "vendorCode": "5602021002121",
+            "description": "PRM11_36542ELT2_BLUE",
+            "barcode": "4610055234730",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT2_BLUE"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "36"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "36"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Синий"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СИНИЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234730",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT2_BLUE 37",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234747.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234747.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT2_BLUE",
+            "vendorCode": "5602021002121",
+            "description": "PRM11_36542ELT2_BLUE",
+            "barcode": "4610055234747",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT2_BLUE"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "37"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "37"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Синий"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СИНИЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234747",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT2_BLUE 38",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234754.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234754.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT2_BLUE",
+            "vendorCode": "5602021002121",
+            "description": "PRM11_36542ELT2_BLUE",
+            "barcode": "4610055234754",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT2_BLUE"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "38"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "38"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Синий"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СИНИЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234754",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT2_BLUE 39",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234761.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234761.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT2_BLUE",
+            "vendorCode": "5602021002121",
+            "description": "PRM11_36542ELT2_BLUE",
+            "barcode": "4610055234761",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT2_BLUE"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "39"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "39"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Синий"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СИНИЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234761",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT2_BLUE 40",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234778.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234778.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT2_BLUE",
+            "vendorCode": "5602021002121",
+            "description": "PRM11_36542ELT2_BLUE",
+            "barcode": "4610055234778",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT2_BLUE"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "40"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "40"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Синий"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СИНИЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234778",
+            "_available": "true"
+          },
+          {
+            "name": "Ботинки Женский Papaya PRM11_36542ELT2_BLUE 41",
+            "simular": "",
+            "price": "4990",
+            "price_begin": "13990",
+            "percent": "64",
+            "categoryId": "000000021",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055234785.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055234785.10.jpg"
+            ],
+            "vat": "6",
+            "model": "PRM11_36542ELT2_BLUE",
+            "vendorCode": "5602021002121",
+            "description": "PRM11_36542ELT2_BLUE",
+            "barcode": "4610055234785",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "PRM11_36542ELT2_BLUE"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "41"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "41"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Синий"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СИНИЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Шерсть натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Ботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Зимняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21-22 FW"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "ПОРТУГАЛИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1295000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "112"
+              },
+              {
+                "_name": "Высота",
+                "__text": "275"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Шерсть"
+              }
+            ],
+            "_id": "4610055234785",
+            "_available": "true"
+          },
+          {
+            "name": "Босоножки Женский Papaya VIC53_4-LQ112-11C-1L_GREY 35",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7990",
+            "percent": "63",
+            "categoryId": "000000017",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055073933.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055073933.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC53_4-LQ112-11C-1L_GREY",
+            "vendorCode": "69020000238",
+            "description": "VIC53_4-LQ112-11C-1L_GREY",
+            "barcode": "4610055073933",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC53_4-LQ112-11C-1L_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "35"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "35"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "ВЫСОКИЙ (70-90 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Босоножки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "740000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "285"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "95"
+              },
+              {
+                "_name": "Высота",
+                "__text": "185"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4610055073933",
+            "_available": "true"
+          },
+          {
+            "name": "Босоножки Женский Papaya VIC53_4-LQ112-11C-1L_GREY 40",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7990",
+            "percent": "63",
+            "categoryId": "000000017",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055073988.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055073988.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC53_4-LQ112-11C-1L_GREY",
+            "vendorCode": "69020000238",
+            "description": "VIC53_4-LQ112-11C-1L_GREY",
+            "barcode": "4610055073988",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC53_4-LQ112-11C-1L_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "40"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "40"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "ВЫСОКИЙ (70-90 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Босоножки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "740000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "285"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "95"
+              },
+              {
+                "_name": "Высота",
+                "__text": "185"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4610055073988",
+            "_available": "true"
+          },
+          {
+            "name": "Босоножки Женский Papaya VIC53_4-LQ112-11C-1L_GREY 41",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7990",
+            "percent": "63",
+            "categoryId": "000000017",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055073995.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055073995.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC53_4-LQ112-11C-1L_GREY",
+            "vendorCode": "69020000238",
+            "description": "VIC53_4-LQ112-11C-1L_GREY",
+            "barcode": "4610055073995",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC53_4-LQ112-11C-1L_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "41"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "41"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "ВЫСОКИЙ (70-90 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Босоножки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "740000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "285"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "95"
+              },
+              {
+                "_name": "Высота",
+                "__text": "185"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4610055073995",
+            "_available": "true"
+          },
+          {
+            "name": "Полуботинки Женский Papaya VIC36_FH8242-770-2_GREY 37",
+            "simular": "",
+            "price": "2490",
+            "price_begin": "7990",
+            "percent": "69",
+            "categoryId": "000000031",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4670052190170.1.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.2.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.3.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.4.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.5.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.6.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.7.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.8.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.9.jpg",
+              "https://www.fittin-test.ru/photo/4670052190170.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC36_FH8242-770-2_GREY",
+            "vendorCode": "69020000244",
+            "description": "VIC36_FH8242-770-2_GREY",
+            "barcode": "4670052190170",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC36_FH8242-770-2_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "37"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "37"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "НИЗКИЙ (15-30 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Полуботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "692000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "300"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "105"
+              },
+              {
+                "_name": "Высота",
+                "__text": "180"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Байка"
+              }
+            ],
+            "_id": "4670052190170",
+            "_available": "true"
+          },
+          {
+            "name": "Сандалии Женский Papaya VIC6_5-Y-101_GREY 36",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7490",
+            "percent": "60",
+            "categoryId": "000000037",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055074718.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055074718.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC6_5-Y-101_GREY",
+            "vendorCode": "69020000261",
+            "description": "VIC6_5-Y-101_GREY",
+            "barcode": "4610055074718",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC6_5-Y-101_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "36"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "36"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "НИЗКИЙ (15-30 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Сандалии"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "730000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "300"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "117"
+              },
+              {
+                "_name": "Высота",
+                "__text": "194"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Байка"
+              }
+            ],
+            "_id": "4610055074718",
+            "_available": "true"
+          },
+          {
+            "name": "Сандалии Женский Papaya VIC6_5-Y-101_GREY 37",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7490",
+            "percent": "60",
+            "categoryId": "000000037",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055074725.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055074725.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC6_5-Y-101_GREY",
+            "vendorCode": "69020000261",
+            "description": "VIC6_5-Y-101_GREY",
+            "barcode": "4610055074725",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC6_5-Y-101_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "37"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "37"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "НИЗКИЙ (15-30 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Сандалии"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "730000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "300"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "117"
+              },
+              {
+                "_name": "Высота",
+                "__text": "194"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Байка"
+              }
+            ],
+            "_id": "4610055074725",
+            "_available": "true"
+          },
+          {
+            "name": "Сандалии Женский Papaya VIC6_5-Y-167_GREY 36",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7490",
+            "percent": "60",
+            "categoryId": "000000037",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055075135.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055075135.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC6_5-Y-167_GREY",
+            "vendorCode": "69020000262",
+            "description": "VIC6_5-Y-167_GREY",
+            "barcode": "4610055075135",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC6_5-Y-167_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "36"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "36"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная/Текстиль"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "НИЗКИЙ (15-30 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Сандалии"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "730000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "300"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "117"
+              },
+              {
+                "_name": "Высота",
+                "__text": "194"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4610055075135",
+            "_available": "true"
+          },
+          {
+            "name": "Сандалии Женский Papaya VIC6_5-Y-167_GREY 37",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7490",
+            "percent": "60",
+            "categoryId": "000000037",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055075142.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055075142.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC6_5-Y-167_GREY",
+            "vendorCode": "69020000262",
+            "description": "VIC6_5-Y-167_GREY",
+            "barcode": "4610055075142",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC6_5-Y-167_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "37"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "37"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная/Текстиль"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "НИЗКИЙ (15-30 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Сандалии"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "730000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "300"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "117"
+              },
+              {
+                "_name": "Высота",
+                "__text": "194"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4610055075142",
+            "_available": "true"
+          },
+          {
+            "name": "Сандалии Женский Papaya VIC6_5-Y-167_GREY 38",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "7490",
+            "percent": "60",
+            "categoryId": "000000037",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055075159.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055075159.10.jpg"
+            ],
+            "vat": "6",
+            "model": "VIC6_5-Y-167_GREY",
+            "vendorCode": "69020000262",
+            "description": "VIC6_5-Y-167_GREY",
+            "barcode": "4610055075159",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "VIC6_5-Y-167_GREY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "38"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "38"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная/Текстиль"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "НИЗКИЙ (15-30 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Сандалии"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "730000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "300"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "117"
+              },
+              {
+                "_name": "Высота",
+                "__text": "194"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4610055075159",
+            "_available": "true"
+          },
+          {
+            "name": "Мокасины Мужской Papaya CG187_P1415-08A_GRAY 39",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "9990",
+            "percent": "70",
+            "categoryId": "000000075",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055027509.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055027509.10.jpg"
+            ],
+            "vat": "6",
+            "model": "CG187_P1415-08A_GRAY",
+            "vendorCode": "69020000295",
+            "description": "CG187_P1415-08A_GRAY",
+            "barcode": "4610055027509",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "CG187_P1415-08A_GRAY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "39"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "39"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "БЕЗ КАБЛУКА (до 15 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Мокасины"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "871000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "335"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "120"
+              },
+              {
+                "_name": "Высота",
+                "__text": "180"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Байка"
+              }
+            ],
+            "_id": "4610055027509",
+            "_available": "true"
+          },
+          {
+            "name": "Кроссовки Мужской Papaya CRP87_RYLD02-2A_GRAY 40",
+            "simular": "",
+            "price": "2990",
+            "price_begin": "9490",
+            "percent": "68",
+            "categoryId": "000000073",
+            "picture": [
+              "https://www.fittin-test.ru/photo/4610055039304.1.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.2.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.3.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.4.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.5.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.6.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.7.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.8.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.9.jpg",
+              "https://www.fittin-test.ru/photo/4610055039304.10.jpg"
+            ],
+            "vat": "6",
+            "model": "CRP87_RYLD02-2A_GRAY",
+            "vendorCode": "69020000414",
+            "description": "CRP87_RYLD02-2A_GRAY",
+            "barcode": "4610055039304",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "CRP87_RYLD02-2A_GRAY"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "40"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "40"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Спилок/Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы",
+                "__text": "Резина"
+              },
+              {
+                "_name": "Высота каблука",
+                "__text": "БЕЗ КАБЛУКА (до 15 мм)"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Кроссовки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Всесезонная"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1100000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "120"
+              },
+              {
+                "_name": "Высота",
+                "__text": "210"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Байка"
+              }
+            ],
+            "_id": "4610055039304",
+            "_available": "true"
+          },
+          {
+            "name": "Кроссовки Мужской Papaya FL89_J04-5_BLACK 42",
+            "simular": "FL89_J011",
+            "price": "6290",
+            "price_begin": "6290",
+            "percent": "0",
+            "categoryId": "000000073",
+            "picture": [
+              "https://www.test-fittin.ru/photo/4610055374375.1.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.2.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.3.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.4.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.5.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.6.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.7.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.8.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.9.jpg",
+              "https://www.test-fittin.ru/photo/4610055374375.10.jpg"
+            ],
+            "vat": "6",
+            "model": "FL89_J04-5_BLACK",
+            "vendorCode": "6902100004046",
+            "description": "FL89_J04-5_BLACK",
+            "barcode": "4610055374375",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "FL89_J04-5_BLACK"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "42"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "42"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Кроссовки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "22SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "870000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "115"
+              },
+              {
+                "_name": "Высота",
+                "__text": "189"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Кожа искусственная"
+              }
+            ],
+            "_id": "4610055374375",
+            "_available": "true"
+          },
+          {
+            "name": "Кроссовки Мужской Papaya FL89_J04-5_BLACK 43",
+            "simular": "FL89_J011",
+            "price": "6290",
+            "price_begin": "6290",
+            "percent": "0",
+            "categoryId": "000000073",
+            "picture": [
+              "https://www.test-fittin.ru/photo/4610055374382.1.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.2.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.3.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.4.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.5.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.6.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.7.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.8.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.9.jpg",
+              "https://www.test-fittin.ru/photo/4610055374382.10.jpg"
+            ],
+            "vat": "6",
+            "model": "FL89_J04-5_BLACK",
+            "vendorCode": "6902100004046",
+            "description": "FL89_J04-5_BLACK",
+            "barcode": "4610055374382",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "FL89_J04-5_BLACK"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "43"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "43"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Кроссовки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "22SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "870000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "115"
+              },
+              {
+                "_name": "Высота",
+                "__text": "189"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Кожа искусственная"
+              }
+            ],
+            "_id": "4610055374382",
+            "_available": "true"
+          },
+          {
+            "name": "Кроссовки Мужской Papaya FL89_J04-5_BLACK 44",
+            "simular": "FL89_J011",
+            "price": "6290",
+            "price_begin": "6290",
+            "percent": "0",
+            "categoryId": "000000073",
+            "picture": [
+              "https://www.test-fittin.ru/photo/4610055374399.1.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.2.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.3.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.4.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.5.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.6.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.7.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.8.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.9.jpg",
+              "https://www.test-fittin.ru/photo/4610055374399.10.jpg"
+            ],
+            "vat": "6",
+            "model": "FL89_J04-5_BLACK",
+            "vendorCode": "6902100004046",
+            "description": "FL89_J04-5_BLACK",
+            "barcode": "4610055374399",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "FL89_J04-5_BLACK"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "44"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "44"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Кроссовки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "22SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "870000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "330"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "115"
+              },
+              {
+                "_name": "Высота",
+                "__text": "189"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Кожа искусственная"
+              }
+            ],
+            "_id": "4610055374399",
+            "_available": "true"
+          },
+          {
+            "name": "Полуботинки Мужской Papaya CC217_Z16-1-L192-L54_BLACK 39",
+            "simular": "",
+            "price": "4490",
+            "price_begin": "11990",
+            "percent": "63",
+            "categoryId": "000000077",
+            "picture": [
+              "https://www.test-fittin.ru/photo/4610055419779.1.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.2.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.3.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.4.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.5.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.6.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.7.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.8.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.9.jpg",
+              "https://www.test-fittin.ru/photo/4610055419779.10.jpg"
+            ],
+            "vat": "6",
+            "model": "CC217_Z16-1-L192-L54_BLACK",
+            "vendorCode": "6902100004633",
+            "description": "CC217_Z16-1-L192-L54_BLACK",
+            "barcode": "4610055419779",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "CC217_Z16-1-L192-L54_BLACK"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "39"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "39"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Без подкладки"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Полуботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "865000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "345"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "120"
+              },
+              {
+                "_name": "Высота",
+                "__text": "180"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Кожа"
+              }
+            ],
+            "_id": "4610055419779",
+            "_available": "true"
+          },
+          {
+            "name": "Полуботинки Мужской Papaya CC217_Z16-1-L192-L54_BLACK 41",
+            "simular": "",
+            "price": "4490",
+            "price_begin": "11990",
+            "percent": "63",
+            "categoryId": "000000077",
+            "picture": [
+              "https://www.test-fittin.ru/photo/4610055419793.1.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.2.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.3.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.4.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.5.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.6.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.7.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.8.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.9.jpg",
+              "https://www.test-fittin.ru/photo/4610055419793.10.jpg"
+            ],
+            "vat": "6",
+            "model": "CC217_Z16-1-L192-L54_BLACK",
+            "vendorCode": "6902100004633",
+            "description": "CC217_Z16-1-L192-L54_BLACK",
+            "barcode": "4610055419793",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "CC217_Z16-1-L192-L54_BLACK"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "41"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "41"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Без подкладки"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Полуботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "21SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "865000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "345"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "120"
+              },
+              {
+                "_name": "Высота",
+                "__text": "180"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "Нат.Кожа"
+              }
+            ],
+            "_id": "4610055419793",
+            "_available": "true"
+          },
+          {
+            "name": "Полуботинки Мужской Papaya RBS36_5-497-101-0_BLACK 42",
+            "simular": "RBS36_5-497",
+            "price": "4790",
+            "price_begin": "7990",
+            "percent": "40",
+            "categoryId": "000000077",
+            "picture": [
+              "https://www.test-fittin.ru/photo/4650252203696.1.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.2.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.3.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.4.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.5.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.6.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.7.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.8.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.9.jpg",
+              "https://www.test-fittin.ru/photo/4650252203696.10.jpg"
+            ],
+            "vat": "6",
+            "model": "RBS36_5-497-101-0_BLACK",
+            "vendorCode": "6402200014872",
+            "description": "RBS36_5-497-101-0_BLACK",
+            "barcode": "4650252203696",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "RBS36_5-497-101-0_BLACK"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "42"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "42"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Полуботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Всесезонная"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "22SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "РОССИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1100000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "340"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "120"
+              },
+              {
+                "_name": "Высота",
+                "__text": "195"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4650252203696",
+            "_available": "true"
+          },
+          {
+            "name": "Полуботинки Мужской Papaya RBS36_5-497-101-0_BLACK 43",
+            "simular": "RBS36_5-497",
+            "price": "4790",
+            "price_begin": "7990",
+            "percent": "40",
+            "categoryId": "000000077",
+            "picture": [
+              "https://www.test-fittin.ru/photo/4650252203702.1.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.2.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.3.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.4.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.5.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.6.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.7.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.8.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.9.jpg",
+              "https://www.test-fittin.ru/photo/4650252203702.10.jpg"
+            ],
+            "vat": "6",
+            "model": "RBS36_5-497-101-0_BLACK",
+            "vendorCode": "6402200014872",
+            "description": "RBS36_5-497-101-0_BLACK",
+            "barcode": "4650252203702",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "RBS36_5-497-101-0_BLACK"
+              },
+              {
+                "_name": "Размер RU",
+                "__text": "43"
+              },
+              {
+                "_name": "Размер производителя",
+                "__text": "43"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Кожа натуральная"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Полуботинки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Всесезонная"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "22SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "РОССИЯ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "1100000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "340"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "120"
+              },
+              {
+                "_name": "Высота",
+                "__text": "195"
+              },
+              {
+                "_name": "Материал стельки",
+                "__text": "MD"
+              }
+            ],
+            "_id": "4650252203702",
+            "_available": "true"
+          },
+          {
+            "name": "Сумки Женский Papaya 41-130-38-4",
+            "simular": "",
+            "price": "1990",
+            "price_begin": "4990",
+            "percent": "60",
+            "categoryId": "000000060",
+            "picture": [
+              "https://www.test-fittin.ru/photo/2000031929781.1.jpg",
+              "https://www.test-fittin.ru/photo/2000031929781.2.jpg",
+              "https://www.test-fittin.ru/photo/2000031929781.3.jpg",
+              "https://www.test-fittin.ru/photo/2000031929781.4.jpg",
+              "https://www.test-fittin.ru/photo/2000031929781.5.jpg",
+              "https://www.test-fittin.ru/photo/2000031929781.6.jpg",
+              "https://www.test-fittin.ru/photo/2000031929781.7.jpg"
+            ],
+            "vat": "6",
+            "model": "41-130-38-4",
+            "vendorCode": "20000319297",
+            "description": "41-130-38-4",
+            "barcode": "2000031929781",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "41-130-38-4"
+              },
+              {
+                "_name": "Размер RU"
+              },
+              {
+                "_name": "Размер производителя"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Серый"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "СЕРЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Кожа искуственная"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Женский"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Сумки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Летняя"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "20SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "824000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "410"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "585"
+              },
+              {
+                "_name": "Высота",
+                "__text": "110"
+              },
+              {
+                "_name": "Материал стельки"
+              }
+            ],
+            "_id": "2000031929781",
+            "_available": "true"
+          },
+          {
+            "name": "Сумки Мужской Papaya 41-242-31-4",
+            "simular": "41-242",
+            "price": "5590",
+            "price_begin": "7990",
+            "percent": "30",
+            "categoryId": "000000105",
+            "picture": [
+              "https://www.test-fittin.ru/photo/2000031930947.1.jpg",
+              "https://www.test-fittin.ru/photo/2000031930947.2.jpg",
+              "https://www.test-fittin.ru/photo/2000031930947.3.jpg",
+              "https://www.test-fittin.ru/photo/2000031930947.4.jpg",
+              "https://www.test-fittin.ru/photo/2000031930947.5.jpg",
+              "https://www.test-fittin.ru/photo/2000031930947.6.jpg",
+              "https://www.test-fittin.ru/photo/2000031930947.7.jpg"
+            ],
+            "vat": "6",
+            "model": "41-242-31-4",
+            "vendorCode": "2000031930947",
+            "description": "41-242-31-4",
+            "barcode": "2000031930947",
+            "param": [
+              {
+                "_name": "Бренд",
+                "__text": "Papaya"
+              },
+              {
+                "_name": "Артикул",
+                "__text": "41-242-31-4"
+              },
+              {
+                "_name": "Размер RU"
+              },
+              {
+                "_name": "Размер производителя"
+              },
+              {
+                "_name": "Цвет",
+                "__text": "Черный"
+              },
+              {
+                "_name": "Цвет производителя",
+                "__text": "ЧЕРНЫЙ"
+              },
+              {
+                "_name": "Материал верха",
+                "__text": "Экокожа"
+              },
+              {
+                "_name": "Материал подклада",
+                "__text": "Текстиль"
+              },
+              {
+                "_name": "Материал подошвы"
+              },
+              {
+                "_name": "Высота каблука"
+              },
+              {
+                "_name": "Высота подошвы"
+              },
+              {
+                "_name": "Пол",
+                "__text": "Мужской"
+              },
+              {
+                "_name": "Тип",
+                "__text": "Сумки"
+              },
+              {
+                "_name": "Сезон",
+                "__text": "Всесезонная"
+              },
+              {
+                "_name": "Сезон продажи",
+                "__text": "22SS"
+              },
+              {
+                "_name": "Стиль",
+                "__text": "Casual"
+              },
+              {
+                "_name": "Страна дизайна",
+                "__text": "Испания"
+              },
+              {
+                "_name": "Страна производитель",
+                "__text": "КИТАЙ"
+              },
+              {
+                "_name": "Вес",
+                "__text": "455000"
+              },
+              {
+                "_name": "Длина",
+                "__text": "410"
+              },
+              {
+                "_name": "Ширина",
+                "__text": "490"
+              },
+              {
+                "_name": "Высота",
+                "__text": "160"
+              },
+              {
+                "_name": "Материал стельки"
+              }
+            ],
+            "_id": "2000031930947",
+            "_available": "true"
+          }
+        ]
+      }
+    },
+    "_date": "2022-06-27 10:30"
+  }
+}
