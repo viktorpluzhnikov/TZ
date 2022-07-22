@@ -88,7 +88,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'catalogtz',
         'USER': 'root',
-        'PASSWORD': 'sc6h9mk5',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '3306',
     }
