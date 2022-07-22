@@ -1,5 +1,5 @@
 from django.db import models
-from uuid import uuid4
+
 
 
 
@@ -9,8 +9,6 @@ class Offers(models.Model):
     price = models.FloatField(blank=True, null=True)
     param2_text = models.IntegerField(blank=True, null=True)
 
-
     class Meta:
         managed = False
         db_table = 'offers'
-

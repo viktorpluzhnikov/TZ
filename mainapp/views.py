@@ -5,7 +5,9 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 
-class ProductsViewSet(ModelViewSet):
+
+
+class OffersViewSet(ModelViewSet):
     queryset = Offers.objects.all()
     serializer_class = ProductModelSerializer
 
