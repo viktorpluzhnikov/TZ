@@ -5,14 +5,16 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 
-class ProductsViewSet(ModelViewSet):
+
+
+class OffersViewSet(ModelViewSet):
     queryset = Offers.objects.all()
     serializer_class = ProductModelSerializer
 
 
 class GetProductInfoView(APIView):
     def get(self, request):
-        # Получаем набор всех записей из таблицы Capital
+        # Получаем набор всех записей из таблицы
         queryset = Offers.objects.all()
         # Сериализуем извлечённый набор записей
         serializer_for_queryset = ProductSerializer(
